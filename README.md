@@ -43,3 +43,7 @@ To add a new block to the blockchain, you can send a POST request to the endpoin
 ```bash
 curl -X POST -H "Content-Type: application/json" -d '{"Message": "Hello World!"}' http://localhost:8080
 ```
+
+Or using Postman:
+
+![Postman Example](./images/postman.png)
