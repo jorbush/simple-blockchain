@@ -1,6 +1,6 @@
 # Simple Blockchain
 
-This is an example of a simple blockchain implementation in Go.
+Implementation of a simple blockchain implementation in Go.
 
 ## Tree
 
